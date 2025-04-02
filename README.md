@@ -1,25 +1,25 @@
 Qualquer dúvida, entre em contato: lucaslins241@gmail.com
-
+____________________
 Clone o repositório e, após isso, execute o seguinte comando no terminal:
-
+____________________
 **cd backend**
-
+____________________
 Instale todas as dependências:
-
+____________________
 **npm install**
-
+____________________
 Depois de instalar todas as dependências, execute:
-
+____________________
 **npx prisma generate**
-
+____________________
 **npm run start**
-
+____________________
 Abra outro terminal e execute:
-
+____________________
 **cd frontend**
-
+____________________
 **npm install**
-
+____________________
 **npm run dev**
  
  _____________________________________________________________________________________________________________________________________________
