@@ -1,3 +1,28 @@
+Qualquer dúvida, entre em contato: lucaslins241@gmail.com
+
+Clone o repositório e, após isso, execute o seguinte comando no terminal:
+
+cd backend
+
+Instale todas as dependências:
+
+npm install
+
+Depois de instalar todas as dependências, execute:
+
+npx prisma generate 
+
+npm run start
+
+Abra outro terminal e execute:
+
+cd frontend
+
+npm install
+
+npm run dev
+ 
+ 
  ![SoftMakers](https://www.softmakers.com.br/assets/img/logotipo14xxhdpi.png)
 
 # Desafio - Desenvolvedor Fullstack - Estágio
